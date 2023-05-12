@@ -12,9 +12,6 @@ public class Class01 {
         //v4 calismalari
         System.out.println("version 4 calismalari");
         //v5 kodlari
-
-
-
-
+        //v6 github dan intellj ye gonderme
     }
 }
