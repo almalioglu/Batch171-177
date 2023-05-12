@@ -9,6 +9,9 @@ public class Class01 {
 
         //v3 kodlari
         System.out.println("v3 kodlari...");
+        //v4 calismalari
+        System.out.println("version 4 calismalari");
+
 
 
 
