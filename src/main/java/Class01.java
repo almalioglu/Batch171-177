@@ -4,7 +4,8 @@ public class Class01 {
         int y =5;
         System.out.println(x+y);
         System.out.println("Version1 icin islemler tamam");
-
+        int z =4;
+        System.out.println((x + y + z));
 
     }
 }
